@@ -4,7 +4,6 @@
 
 int main(int argc, char **argv)
 {
-    printf("Hello world!\n");
     char first[255], last[255];
 
     askname(first, last);
